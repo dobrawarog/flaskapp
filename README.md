@@ -1,2 +1,2 @@
 # flaskapp
-Kod do Quizu 
+Kody związane z Quizem  
